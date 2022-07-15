@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angi2412
-- 👀 I’m interested in machine learning and DevOps
-- 🌱 I’m currently learning Terraform and Chef
+- 👀 I’m a DevOps engineer
+- 🌱 I’m currently learning ArgoCD
 - 📫 How to reach me: horn.angelina96@gmail.com
 
 <!---
