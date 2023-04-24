@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angi2412
 - 👀 I’m a DevOps engineer
-- 🌱 I’m currently learning ArgoCD
+- 🌱 I’m currently working with Java, PostgreSQL and React
 - 📫 How to reach me: horn.angelina96@gmail.com
 
 <!---
